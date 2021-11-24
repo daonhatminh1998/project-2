@@ -1,0 +1,5 @@
+id,first_name,gpa,email,gender
+1,Caleb,3.6,jdtg0@aws.com,Female
+2,Aida,3.1,adattt@test.gov,Female
+3,Alex,3.4,Adavis@bccs.com,Male
+4,Meba,3.2,mtravis@yahoo.com,Male
